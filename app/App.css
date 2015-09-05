@@ -50,9 +50,10 @@
   opacity: 0.6;
   left: 0;
   right: 0;
-  font-size: 12vw;
+  font-size: 12vmin;
   text-align: center;
   animation: bounce 2s infinite;
+  z-index: 10;
 }
 
 @keyframes bounce {
