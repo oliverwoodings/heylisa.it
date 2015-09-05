@@ -1,0 +1,36 @@
+{
+  "name": "heylisa.net",
+  "version": "1.0.0",
+  "description": "Happy birthday Lisa!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:oliverwoodings/heylisa.it.git"
+  },
+  "author": "Oliver Woodings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oliverwoodings/heylisa.it/issues"
+  },
+  "homepage": "https://github.com/oliverwoodings/heylisa.it",
+  "devDependencies": {
+    "babel-core": "^5.8.23",
+    "babel-loader": "^5.3.2",
+    "css-loader": "^0.17.0",
+    "cssnext-loader": "^1.0.1",
+    "file-loader": "^0.8.4",
+    "style-loader": "^0.12.3",
+    "url-loader": "^0.5.6",
+    "webpack": "^1.12.1",
+    "webpack-dev-server": "^1.10.1"
+  },
+  "dependencies": {
+    "classnames": "^2.1.3",
+    "font-awesome": "^4.4.0",
+    "normalize.css": "^3.0.3",
+    "react": "^0.13.3"
+  }
+}
